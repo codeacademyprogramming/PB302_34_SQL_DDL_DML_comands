@@ -1,0 +1,14 @@
+C:\Users\elchin\Desktop\CodeLessons\34. 13-02-2024\ShallowDeepCopy\ShallowDeepCopy\bin\Debug\net8.0\ShallowDeepCopy.exe
+C:\Users\elchin\Desktop\CodeLessons\34. 13-02-2024\ShallowDeepCopy\ShallowDeepCopy\bin\Debug\net8.0\ShallowDeepCopy.deps.json
+C:\Users\elchin\Desktop\CodeLessons\34. 13-02-2024\ShallowDeepCopy\ShallowDeepCopy\bin\Debug\net8.0\ShallowDeepCopy.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLessons\34. 13-02-2024\ShallowDeepCopy\ShallowDeepCopy\bin\Debug\net8.0\ShallowDeepCopy.dll
+C:\Users\elchin\Desktop\CodeLessons\34. 13-02-2024\ShallowDeepCopy\ShallowDeepCopy\bin\Debug\net8.0\ShallowDeepCopy.pdb
+C:\Users\elchin\Desktop\CodeLessons\34. 13-02-2024\ShallowDeepCopy\ShallowDeepCopy\obj\Debug\net8.0\ShallowDeepCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLessons\34. 13-02-2024\ShallowDeepCopy\ShallowDeepCopy\obj\Debug\net8.0\ShallowDeepCopy.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\34. 13-02-2024\ShallowDeepCopy\ShallowDeepCopy\obj\Debug\net8.0\ShallowDeepCopy.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLessons\34. 13-02-2024\ShallowDeepCopy\ShallowDeepCopy\obj\Debug\net8.0\ShallowDeepCopy.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\34. 13-02-2024\ShallowDeepCopy\ShallowDeepCopy\obj\Debug\net8.0\ShallowDeepCopy.dll
+C:\Users\elchin\Desktop\CodeLessons\34. 13-02-2024\ShallowDeepCopy\ShallowDeepCopy\obj\Debug\net8.0\refint\ShallowDeepCopy.dll
+C:\Users\elchin\Desktop\CodeLessons\34. 13-02-2024\ShallowDeepCopy\ShallowDeepCopy\obj\Debug\net8.0\ShallowDeepCopy.pdb
+C:\Users\elchin\Desktop\CodeLessons\34. 13-02-2024\ShallowDeepCopy\ShallowDeepCopy\obj\Debug\net8.0\ShallowDeepCopy.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLessons\34. 13-02-2024\ShallowDeepCopy\ShallowDeepCopy\obj\Debug\net8.0\ref\ShallowDeepCopy.dll
